@@ -1,14 +1,14 @@
 # Sparks App 
-This app is a simple app that provides social interaction based on the time of day. The purpose is to encourage users to engage and  thrcommuncation with othersoughout the day
+This app is a simple app that provides social interaction based on the time of day. The purpose is to encourage users to engage and communicate with others throughout the day
 
 # Features
 Displays different messages depending on the time of day
-Button to "Show Suggested" results
+Button to "Get Suggested" results
 Button to reset input
 
 # How the app works 
 Enter the time of day (" morning, mid-morning, lunch, afternoon, dinner ")
-User will then click "Show Suggestion"
+User will then click "Get Suggestion"
 App will show a suggestion based on the time of day inputed 
 A relevant message will appear
 Reset button will reset everything
